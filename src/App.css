@@ -32,7 +32,135 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+.header {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.bg {
+  background-color: #003145;
+}
+
+.hometext {
+  color: #FFFFFF;
+  font-size: 51px;
+  font-weight: 660;
+  width: 620px;
+  max-width: 100%;
+}
+
+.para {
+  font-size: 22px;
+  font-weight: 645;
+  width: 600px;
+  max-width: 100%;
+  color: #FFFFFF;
+}
+
+.txt {
+  color: #FFFFFF;
+}
+
+.flexbox-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.btntxt {
+  color: #003145;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.middlebar {
+  background: #002A3B;
+}
+
+.card {
+  background-color: #F8F9FD;
+  width: 30rem;
+}
+
+.search {
+  height: 350px;
+}
+
+.searchbg {
+  background: #002A3B;
+}
+
+.challengebg {
+  background: #003145;
+}
+
+.challenge {
+  height: 50px;
+  font-size: 30px;
+  font-weight: 650;
+}
+
+.detailtxt {
+  color: #FFFFFF;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.detailtxt2 {
+  color: #FFFFFF;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.overview {
+  font-size: 20px;
+  font-weight: 750;
+}
+
+.over {
+  box-shadow: 2px 4px 8px #888888;
+}
+
+.overviewtext {
+  width: 1150px;
+  max-width: 100%;
+  font: poppins;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.cardhack {
+  position: absolute;
+  width: 354px;
+  max-width: 100%;
+  height: 174px;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.cardtxt {
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.txt-1 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.skills {
+  font-size: 25px;
+  font-weight: 750;
+}
+
+.skilldetail {
+  font-size: 19px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: #64607D
+}
+
